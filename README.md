@@ -19,3 +19,5 @@ I make youtube videos or something
 **[Kade Engine Community (*KEC*)](https://github.com/TheRealJake12/Kade-Engine-Community.git)**
 
 **[The Blue Balls Incident : Disorder](https://twitter.com/AhmedxRNMD_/status/1521490804237389825)**
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealJake12&show_icons=true&theme=radical)

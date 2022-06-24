@@ -20,6 +20,6 @@ I make youtube videos or something
 
 **[The Blue Balls Incident : Disorder](https://twitter.com/AhmedxRNMD_/status/1521490804237389825)**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealJake12&show_icons=true&theme=radical)
+![My Stats](https://github-readme-stats.vercel.app/api?username=TheRealJake12&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealJake12&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![My languages top](https://ghstats.stilic.ml/api/top-langs/?username=Stilic&hide_title=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

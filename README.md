@@ -16,7 +16,9 @@ I make youtube videos or something
 
 **[Kade Engine Community (*KEC*)](https://github.com/TheRealJake12/Kade-Engine-Community.git)**
 
-**[The Trollge Files : DISORDER](https://twitter.com/AhmedxRNMD_/status/1521490804237389825)**
+**[The Trollge Files : DISORDER](https://twitter.com/TheRealJake_12/status/1544529964816646145?s=20&t=jgSXB2XdzDWZ3bCdwTY0yw)**
+
+**Trollge Case Files 2.4 (?)**
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=TheRealJake12&show_icons=true&theme=radical)
 

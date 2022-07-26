@@ -22,4 +22,4 @@ I make youtube videos or something
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=TheRealJake12&show_icons=true&theme=radical)
 
-[![My languages top](https://ghstats.stilic.ml/api/top-langs/?username=Stilic&hide_title=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealJake12&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)

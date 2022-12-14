@@ -20,6 +20,6 @@ I make youtube videos or something
 
 **Trollge Case Files 2.4 (?)**
 
-[![Funni Stats](https://github-readme-stats.vercel.app/api?username=TheRealJake12)](https://github.com/anuraghazra/github-readme-stats)
+[![Funni Stats](https://github-readme-stats.vercel.app/api?username=TheRealJake12&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealJake12)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealJake12&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

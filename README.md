@@ -22,4 +22,4 @@ I make youtube videos or something
 
 [![Funni Stats](https://github-readme-stats.vercel.app/api?username=TheRealJake12&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealJake12&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealJake12&theme=dracula&exclude_repo=4ktest,hxCodec,Indie-Cross-Public,Fuckin-hell,Smoke--Em-Out-Struggle-Kade-Engine)](https://github.com/anuraghazra/github-readme-stats)

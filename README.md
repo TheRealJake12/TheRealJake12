@@ -18,7 +18,7 @@ I make youtube videos or something
 
 **[The Trollge Files : DISORDER](https://gamebanana.com/mods/323190)**
 
-**Trollge Case Files 2.4 (?)**
+**Friday Night Voltex :  Devilish Dance**
 
 [![Funni Stats](https://github-readme-stats.vercel.app/api?username=TheRealJake12&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 

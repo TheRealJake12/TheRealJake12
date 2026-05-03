@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealJake12&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 # Ultra Super Cool Biography Of This Retard
->last updated on 17/6/2025
+>last updated on 3/5/2026
 # Yo. What's Up?
 
 I code things for a stupid little game called **[Friday Night Funkin'](https://www.newgrounds.com/portal/view/770371)**
@@ -12,41 +12,54 @@ Here are some fun, intriguing, thought-provoking facts about me:
 
 * ~~self~~ proclaimed "professional hater".
 * I am a minor.
-* I am deemed as "Controversial" at times.
+* I am deemed as "controversial" at times.
 * I am not a very creative person, believe it or not.
-* I was once trapped in a *basement* for 2 years. Now I own *the basement*.
+* I was once trapped in a *basement* for 2 years.
+* I own *the basement* now.
+* I live in a constant state of regret for the past and faint hope for the future.
 * There is oil in the walls.
+* I hate lists.
+* I enjoy watching and listening to thunderstorms.
+* I dislike people who play music out-loud in public places.
 
 # What Type Of Shit Do You Like?
 
 Depends, I'm back and forth on a lot of things.
 
-Music:
+Music, in no particular order:
 <details>
   
-  Random Game OSTs
+  Game OSTs
   
   2010 White Girl Music
   
-  2000's """edgy""" music from time to time
-  
-  Everything inbetween
+  2000's """edgy""" music, from time to time
+
+  Gloryhammer
+
+  Nickelback
 </details>
 
 Games, In No Particular Order:
 <details>
+
+  Death Stranding (1 and 2)
   
   DEATH NOTE : Killer Within
   
   Terraria
+
+  Gem Defender
   
   Phasmophobia
   
   Quaver
+
+  Stellar Blade
+
+  Minecraft
   
   Among Us
-  
-  Castle Crashers
   
   Team Fortress 2
 </details>
@@ -84,3 +97,5 @@ Games, In No Particular Order:
 
 **[Director's Discourse]** 
 </details>
+
+**Christ is King.**
